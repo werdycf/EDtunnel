@@ -4,11 +4,11 @@
   <img src="https://ipfs.io/ipfs/bafybeigd6i5aavwpr6wvnwuyayklq3omonggta4x2q7kpmgafj357nkcky" alt="edgetunnel" style="margin-bottom: -50px;">
 </p>
 
-GitHub Repository for [https://github.com/zizifn/edgetunnel](https://github.com/zizifn/edgetunnel)
+GitHub Repository for [https://github.com/werdycf/edgetunnel](https://github.com/werdycf/edgetunnel)
 
 ask question and cloudflare ips: [https://t.me/edtunnel](https://t.me/edtunnel)
 
-[![Repository](https://img.shields.io/badge/View%20on-GitHub-blue.svg)](https://github.com/zizifn/edgetunnel)
+[![Repository](https://img.shields.io/badge/View%20on-GitHub-blue.svg)](https://github.com/werdycf/edgetunnel)
 
 ## available branches and explain
 
@@ -42,7 +42,7 @@ ask question and cloudflare ips: [https://t.me/edtunnel](https://t.me/edtunnel)
 
 2. Alternatively, you can click the button below to deploy directly.
 
-   [![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/SonzaiEkkusu/EDtunnel)
+   [![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/werdycf/EDtunnel)
 
 3. Noneed add `nodejs_compat` at setting Compatibility flags
 
